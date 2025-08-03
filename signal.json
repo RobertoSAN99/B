@@ -1,9 +1,7 @@
 {
   "pairs": [
-    "BTCUSDT",
-    "ETHUSDT",
-    "BNBUSDT",
-    "SOLUSDT",
-    "ADAUSDT"
+    "BTCUSDT", "ETHUSDT", "BNBUSDT", "SOLUSDT", "ADAUSDT",
+    "XRPUSDT", "DOGEUSDT", "AVAXUSDT", "LINKUSDT", "MATICUSDT",
+    "DOTUSDT", "TRXUSDT", "UNIUSDT", "LTCUSDT", "APTUSDT"
   ]
 }
